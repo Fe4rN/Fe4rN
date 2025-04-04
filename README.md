@@ -4,7 +4,7 @@
 **A bit more about me:**
 
 - 🔭 I'm currently working on a videogame for the Polytechnic University of Valencia
-- 🌱 I’m currently learning Interactive Technologies at the UPV
+- 🌱 I’m currently studying Interactive Technologies at the UPV
 - ☄️ Developer for Comet Lake (Locked Up) on Roblox
 - 💖 Passionate about videogame development and multimedia storytelling.
 
